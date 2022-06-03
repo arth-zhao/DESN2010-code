@@ -1,3 +1,5 @@
+#include <Servo.h>
+Servo myservo;
 const int numRows=4;//define 4 rows
 const int numCols=4;//define 4 lines
 const int debounceTime=20;// debounce the time
