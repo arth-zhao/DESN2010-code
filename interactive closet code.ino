@@ -1,4 +1,4 @@
-
+// Copyright Arthur (Qianyi) Zhao Australian National University u7423357
 // This is the code for the closet part of the interactive system.
 #include <Servo.h> // Call the built-in library for servo control.
 Servo myservo; // Name the servo as "myservo".
