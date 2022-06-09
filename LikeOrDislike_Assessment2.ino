@@ -1,5 +1,6 @@
-// Copyright Arthur (Qianyi) Zhao Australian National University u7423357
-// This is the code for the closet part of the interactive system.
+// Copyright Arthur (Qianyi) Zhao 
+// Australian National University u7423357
+// This is the code for the like/dislike part of the interactive system.
 #include <Servo.h> // Call the built-in library for servo control.
 Servo myservo; // Name the servo as "myservo".
 // Constants won't change. They're used here to set pin numbers:
